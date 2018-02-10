@@ -10,6 +10,7 @@ h1, h2, h3 {
     font-size: 10pt;
     padding: 0;
     margin: 0;
+    text-transform: lowercase;
 }
 
 h1 {
